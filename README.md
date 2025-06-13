@@ -129,7 +129,7 @@ Estos hallazgos permiten proponer un conjunto preliminar de biomarcadores microb
 * <a href="https://github.com/Patricia312"><img src="https://avatars.githubusercontent.com/u/211718519?v=4" title="Patricia312" width="25" height="25"></a> **Patricia Sánchez**
 * <a href="https://github.com/"><img src="" title="Julio" width="25" height="25"></a> **Julio César Henríquez**
 * <a href="https://github.com/"><img src="" title="Raul" width="25" height="25"></a> **Raúl Caballero**
-* <a href="https://github.com/"><img src="" title="Reyes" width="25" height="25"></a> **María Reyes Mora** 
+* <a href="https://github.com/pekitamora/"><img src="" title="Reyes" width="25" height="25"></a> **María Reyes Mora** 
 
 Holaaaaaa :)
 
