@@ -93,7 +93,25 @@ La composición y funcionalidad de la microbiota intestinal difiere significativ
 
 ## Resultados
 
-Interpretar los resultados para identificar posibles biomarcadores microbianos que predicen la respuesta a inmunoterapia.
+El análisis de la microbiota intestinal reveló diferencias significativas entre los pacientes que respondieron a la inmunoterapia y aquellos que no lo hicieron. En
+primer lugar, se observó una mayor diversidad alfa los que respondieron, medida a través de los índices de Shannon y Simpson, lo cual sugiere una comunidad
+microbiana más rica y equilibrada en este grupo. Además, el análisis de diversidad beta mediante coordenadas principales (PCoA) mostró una clara separación entre
+los grupos, lo que indica diferencias marcadas en la composición microbiana. Por otro lado, a nivel taxonómico, los pacientes respondedores presentaron una mayor abundancia relativa de géneros como Akkermansia muciniphila, Faecalibacterium prausnitzii y Bifidobacterium spp., todos ellos previamente asociados a un perfil 
+inmunológico favorable. En cambio, los no respondedores mostraron un aumento en géneros como Fusobacterium nucleatum y Escherichia/Shigella, relacionados con 
+inflamación y progresión tumoral.
+
+El análisis de expresión diferencial, realizado con DESeq2 sobre datos de RNA-seq, identificó más de 200 genes significativamente alterados entre tejido tumoral y 
+tejido sano. Entre los genes inmunológicos destacados se encuentran IL6, PD-L1 (CD274) e IFNG, cuya expresión fue más alta en los respondedores. De manera 
+interesante, se encontró una correlación positiva entre la abundancia de Akkermansia y la expresión de IFNG, así como entre Faecalibacterium y PD-L1. Por el 
+contrario, Fusobacterium mostró una correlación negativa con la expresión del gen CD8A, marcador de células T citotóxicas.
+
+Finalmente, se llevó a cabo un análisis funcional in silico para explorar las posibles rutas metabólicas y de señalización implicadas. Los microorganismos más 
+relevantes en los pacientes respondedores estaban asociados a rutas relacionadas con la producción de ácidos grasos de cadena corta, como el butirato, conocidos por 
+su efecto antiinflamatorio e inmunomodulador. Las redes de interacción proteína-proteína, generadas con STRING y visualizadas en Cytoscape, destacaron módulos 
+centrados en IL6–STAT3 y PD-L1–JAK1, confirmando su relevancia en la respuesta inmunológica. Además, el mapeo funcional en bases como KEGG sugirió que tanto genes 
+como microorganismos implicados están relacionados con rutas clave de señalización inmune, como la vía del receptor de células T, NF-κB y apoptosis.
+
+Estos hallazgos permiten proponer un conjunto preliminar de biomarcadores microbianos e inmunológicos que podrían tener valor predictivo en la respuesta a inmunoterapia en pacientes con cáncer colorrectal.
 
 > [!NOTE]
 > Esta sección se encuentra actualmente en desarrollo y puede sufrir cambios.
