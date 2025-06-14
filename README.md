@@ -36,6 +36,8 @@ El análisis de la microbiota a través de tecnologías ómicas (principalmente 
 Un biomarcador predictivo es una señal biológica (como un gen o una proteína) que te ayuda a predecir cómo responderá un paciente a un tratamiento.
 Esta propuesta busca desarrollar un pipeline bioinformático básico para identificar dichos biomarcadores.
 
+Considerando la relevancia de la microbiota intestinal en la respuesta inmunitaria antitumoral, esta introducción sienta las bases para explorar la identificación de biomarcadores predictivos de respuesta a la inmunoterapia en la microbiota intestinal en pacientes con cáncer colorrectal.
+
 > [!NOTE]
 > Esta sección se encuentra actualmente en desarrollo y puede sufrir cambios.
 
