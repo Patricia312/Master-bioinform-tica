@@ -127,13 +127,11 @@ Estos hallazgos permiten proponer un conjunto preliminar de biomarcadores microb
 
 ## Autores
 
-* <a href="https://github.com/guillemares"><img src="https://avatars.githubusercontent.com/u/144935605?v=4" title="guillemares" width="25" height="25"></a> **Guillem Arasa**
 * <a href="https://github.com/Patricia312"><img src="https://avatars.githubusercontent.com/u/211718519?v=4" title="Patricia312" width="25" height="25"></a> **Patricia Sánchez**
-* <a href="https://github.com/"><img src="" title="Julio" width="25" height="25"></a> **Julio César Henríquez**
+* <a href="https://github.com/Julio462-eng"><img src="https://avatars.githubusercontent.com/u/214000341?v=4" title="Julio" width="25" height="25"></a> **Julio César Henríquez**
+* <a href="https://github.com/guillemares"><img src="https://avatars.githubusercontent.com/u/144935605?v=4" title="guillemares" width="25" height="25"></a> **Guillem Arasa**
 * <a href="https://github.com/"><img src="" title="Raul" width="25" height="25"></a> **Raúl Caballero**
-* <a href="https://github.com/pekitamora/"><img src="" title="Reyes" width="25" height="25"></a> **María Reyes Mora** 
-
-Holaaaaaa :)
+* <a href="https://github.com/pekitamora/"><img src="https://avatars.githubusercontent.com/u/129877015?v=4" title="Reyes" width="25" height="25"></a> **María Reyes Mora** 
 
 > [!NOTE]
 > Esta sección se encuentra actualmente en desarrollo y puede sufrir cambios.
@@ -149,5 +147,3 @@ Este repositorio se encuentra en la versión 0.1.
 
 Este repositorio se encuentra bajo la licencia MIT.
 
-> [!NOTE]
-> Esta sección se encuentra actualmente en desarrollo y puede sufrir cambios.
