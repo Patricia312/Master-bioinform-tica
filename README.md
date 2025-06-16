@@ -115,6 +115,10 @@ como microorganismos implicados están relacionados con rutas clave de señaliza
 
 Estos hallazgos permiten proponer un conjunto preliminar de biomarcadores microbianos e inmunológicos que podrían tener valor predictivo en la respuesta a inmunoterapia en pacientes con cáncer colorrectal.
 
+## Aplicabilidad clínica y futura investigación
+
+A partir de estos resultados, los siguientes pasos se centrarían en validar experimentalmente los biomarcadores identificados en cohortes independientes y en contextos clínicos reales. Esto incluiría la evaluación prospectiva de la microbiota intestinal en pacientes candidatos a inmunoterapia mediante análisis de secuenciación 16S rRNA en muestras fecales, junto con la cuantificación de expresión génica inmunológica (por ejemplo, IFNG, PD-L1, CD8A) en tejido tumoral mediante técnicas como qPCR o RNA-seq. Clínicamente, estos biomarcadores podrían utilizarse como parte de un test diagnóstico previo al inicio de la inmunoterapia para clasificar a los pacientes como potenciales respondedores o no respondedores. Así, se abriría la puerta a estrategias de medicina personalizada, permitiendo no solo seleccionar tratamientos más efectivos, sino también diseñar intervenciones previas como la modulación de la microbiota (con probióticos, prebióticos o trasplante fecal) para mejorar la respuesta terapéutica. A largo plazo, integrar el perfil microbiano con la firma inmunológica podría transformar la manera en que se toman decisiones terapéuticas en oncología digestiva.
+
 > [!NOTE]
 > Esta sección se encuentra actualmente en desarrollo y puede sufrir cambios.
 
